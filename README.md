@@ -25,9 +25,9 @@ OCEX smartcontract api for interaction with an OCEX smartcontract.
 ## Install && Usage
 
 ```
-yarn add https://github.com/bsn-si/ocex-api
+yarn add https://github.com/Boring-Software-Nation/ocex-api
 # or 
-npm i --save https://github.com/bsn-si/ocex-api
+npm i --save https://github.com/Boring-Software-Nation/ocex-api
 ```
 
 Simple node usage
@@ -72,10 +72,10 @@ Now module doesn't have package on npm, and have dependency of wasm module. You 
 #### NodeJS
 ``` bash
 # Package for use from nodejs
-yarn add https://gitpkg.now.sh/bsn-si/ocex-coupon-signature/pkg_node?main
+yarn add https://gitpkg.now.sh/Boring-Software-Nation/ocex-coupon-signature/pkg_node?main
 
 # Package for use from web (with webpack)
-yarn add https://gitpkg.now.sh/bsn-si/ocex-coupon-signature/pkg_web?main
+yarn add https://gitpkg.now.sh/Boring-Software-Nation/ocex-coupon-signature/pkg_web?main
 ```
 
 And for initialization
@@ -95,10 +95,10 @@ contract.get_coupon_signature = get_coupon_signature
 ```
 
 ## Related repos
-- OCEX [coupon activation dapp](https://github.com/bsn-si/ocex-activation)
-- OCEX [Ink! smart contract](https://github.com/bsn-si/ocex-smartcontract)
-- OCEX [CLI management tool](https://github.com/bsn-si/ocex-cli)
-- JS/Wasm [library](https://github.com/bsn-si/ocex-coupon-signature) for coupon activation signatures
+- OCEX [coupon activation dapp](https://github.com/Boring-Software-Nation/ocex-activation)
+- OCEX [Ink! smart contract](https://github.com/Boring-Software-Nation/ocex-smartcontract)
+- OCEX [CLI management tool](https://github.com/Boring-Software-Nation/ocex-cli)
+- JS/Wasm [library](https://github.com/Boring-Software-Nation/ocex-coupon-signature) for coupon activation signatures
 
 ## License
-[Apache License 2.0](https://github.com/bsn-si/ocex-api/blob/main/LICENSE) © Bela Supernova ([bsn.si](https://bsn.si))
+[Apache License 2.0](https://github.com/Boring-Software-Nation/ocex-api/blob/main/LICENSE) © Boring Software Nation ([bsn.si](https://bsn.si))
